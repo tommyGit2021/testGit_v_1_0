@@ -9,7 +9,7 @@
 #ribbon{
     background-color: rgb(63, 8, 8);
     background-image: repeating-linear-gradient(30deg,transparent,transparent 25px, 
-                        rgba(131,21,21,.5)25px, rgba(131,21,21,.5)40px);
+                        rgba(200,21,21,.5)25px, rgba(131,21,21,.5)40px);
 }
 
 #ribbon::after {
